@@ -1,0 +1,4 @@
+br/com/teste/TesteAlterarPais.class
+br/com/modelo/Pais.class
+br/com/teste/TesteExcluirPais.class
+br/com/teste/TestePersistirPais.class
